@@ -1,5 +1,6 @@
 # I Love You [But] WTF?
-![ILU WTF (1)](https://user-images.githubusercontent.com/5898506/200133817-66649e20-49b5-40df-bc96-67e281d7a861.png)
+
+![ILU WTF (2)](https://user-images.githubusercontent.com/5898506/200136133-b971d098-54cd-47b3-95b7-361fd33a8695.png)
 
 # Vision
 
