@@ -32,8 +32,6 @@ cameraTrigger.onclick = function() {
     cameraSensor.getContext("2d").drawImage(cameraWaterMark, 0, 0);
     
     cameraOutput.src = cameraSensor.toDataURL("image/webp");
-    cameraOutput.width = cameraSensor.width - 6;
-    cameraOutput.height = cameraSensor.height - 6;
     cameraOutput.classList.add("taken");
 
     
