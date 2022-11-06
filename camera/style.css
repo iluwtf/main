@@ -12,6 +12,10 @@ html, body{
     object-fit: cover;
 }
 
+#camera--output{
+    visibility: hidden;
+}
+
 #watermark {
     position: absolute;
     z-index: 1;
@@ -38,6 +42,7 @@ html, body{
 }
 
 .taken{
+    visibility:visible;
     height: 100px!important;
     width: 100px!important;
     transition: all 0.5s ease-in;
