@@ -70,8 +70,8 @@ html, body{
     position: absolute;
     right: 20px;
     top: 120px;
-    left: 120px;
     font-family: sans-serif;
+
     width: 100px;
     z-index: 2;
 }
