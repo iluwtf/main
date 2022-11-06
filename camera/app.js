@@ -36,7 +36,7 @@ cameraTrigger.onclick = function() {
     cameraOutput.classList.add("taken");
     cameraOutput.setTransform(1,0,0,1,0,0);
     
-    
+    window.alert("Press the image on the corner to save it to your Camera roll")
 
     // track.stop();
 };
