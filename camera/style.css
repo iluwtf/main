@@ -50,7 +50,7 @@ html, body{
     transform: scaleX(-1);
     border: solid 3px white;
     box-shadow: 0 5px 10px 0 rgba(0,0,0,0.2);
-    top: 0px;
+    top: 20px;
     right: 20px;
     z-index: 2;
 }
