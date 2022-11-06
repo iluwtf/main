@@ -13,6 +13,7 @@ html, body{
 }
 
 #saveit {
+    visibility: hidden;
     text-align: center;
     position: absolute;
     padding: 10px;
@@ -22,6 +23,7 @@ html, body{
 }
 
 .saveit-post {
+    visibility: visible;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -36,8 +38,9 @@ html, body{
     z-index: -1;
 }
 
-#camera--view, #camera--sensor, #camera--output{
-    
+#camera--view, #camera--sensor{
+    transform: scaleX(-1);
+    filter: FlipH;
 }
 
 #camera--trigger{
