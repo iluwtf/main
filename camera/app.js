@@ -34,9 +34,9 @@ cameraTrigger.onclick = function() {
     cameraOutput.src = cameraSensor.toDataURL("image/webp");
     
     cameraOutput.classList.add("taken");
-    cameraOutput.setTransform(1,0,0,1,0,0);
+    //cameraOutput.setTransform(1,0,0,1,0,0);
     
-    window.alert("Press the image on the corner to save it to your Camera roll")
+    alert("To save the ILUBTW image, press the square for a few seconds, it will give you the option 'Add to Photos' which will add it to your Camera Roll");
 
     // track.stop();
 };
