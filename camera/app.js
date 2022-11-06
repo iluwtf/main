@@ -7,6 +7,7 @@ const cameraView = document.querySelector("#camera--view"),
     cameraOutput = document.querySelector("#camera--output"),
     cameraSensor = document.querySelector("#camera--sensor"),
     cameraTrigger = document.querySelector("#camera--trigger");
+    cameraWaterMark = document.querySelector("#watermark");
 
 // Access the device camera and stream to cameraView
 function cameraStart() {
@@ -25,11 +26,19 @@ function cameraStart() {
 cameraTrigger.onclick = function() {
     cameraSensor.width = cameraView.videoWidth;
     cameraSensor.height = cameraView.videoHeight;
+    cameraWaterMark.crossOrigin="anonymous";
     cameraSensor.getContext("2d").drawImage(cameraView, 0, 0);
+    cameraSensor.getContext("2d").drawImage(cameraWaterMark, 0, 0);
+
+    cameraSensor.crossOrigin="anonymous";
     cameraOutput.src = cameraSensor.toDataURL("image/webp");
     cameraOutput.width = cameraSensor.width - 6;
     cameraOutput.height = cameraSensor.height - 6;
     cameraOutput.classList.add("taken");
+
+    
+    
+
     // track.stop();
 };
 

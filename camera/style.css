@@ -12,6 +12,11 @@ html, body{
     object-fit: cover;
 }
 
+#watermark {
+    position: absolute;
+    z-index: 1;
+}
+
 #camera--view, #camera--sensor, #camera--output{
     transform: scaleX(-1);
     filter: FlipH;
