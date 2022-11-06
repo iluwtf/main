@@ -40,6 +40,9 @@ cameraTrigger.onclick = function() {
     //.render()
     .then(function (url) {
       cameraOutput.src = url;
+      cameraOutput.width = cameraSensor.width - 6;
+      cameraOutput.height = cameraSensor.height - 6;
+      cameraOutput.classList.add("taken");
     });
     
 
