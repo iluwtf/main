@@ -33,7 +33,7 @@ cameraTrigger.onclick = function() {
     
     cameraOutput.src = cameraSensor.toDataURL("image/webp");
     cameraOutput.classList.add("taken");
-
+    cameraOutput.className('visi')
     
     
 
