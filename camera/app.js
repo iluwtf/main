@@ -39,7 +39,6 @@ cameraTrigger.onclick = function() {
     //cameraOutput.setTransform(1,0,0,1,0,0);
     
     cameraSaveit.classList.add("saveit-post");
-    cameraSaveit.style.visibility = "visible";
 
     // track.stop();
 };
