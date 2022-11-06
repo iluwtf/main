@@ -8,7 +8,7 @@ const cameraView = document.querySelector("#camera--view"),
     cameraSensor = document.querySelector("#camera--sensor"),
     cameraTrigger = document.querySelector("#camera--trigger");
     cameraWaterMark = document.querySelector("#watermark");
-
+    cameraSaveit = document.querySelector("#saveit");
 // Access the device camera and stream to cameraView
 function cameraStart() {
     navigator.mediaDevices
@@ -24,19 +24,21 @@ function cameraStart() {
 
 // Take a picture when cameraTrigger is tapped
 cameraTrigger.onclick = function() {
+
+    
     cameraOutput.crossOrigin="anonymous";
     cameraOutput.cameraWaterMark="anonymous";
     cameraSensor.width = cameraView.videoWidth;
     cameraSensor.height = cameraView.videoHeight;
     cameraSensor.getContext("2d").drawImage(cameraView, 0, 0);
-    cameraSensor.getContext("2d").drawImage(cameraWaterMark, 0, 0);
+    cameraSensor.getContext("2d").drawImage(cameraWaterMark, 5, 5);
     
     cameraOutput.src = cameraSensor.toDataURL("image/webp");
     
     cameraOutput.classList.add("taken");
     //cameraOutput.setTransform(1,0,0,1,0,0);
     
-    alert("To save the ILUBTW image, press the square for a few seconds, it will give you the option 'Add to Photos' which will add it to your Camera Roll");
+    cameraSaveit.classList.add("saveit-post");
 
     // track.stop();
 };
