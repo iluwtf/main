@@ -57,7 +57,7 @@ html, body{
     width: 100px!important;
     transition: all 0.5s ease-in;
     
-    border: solid 3px white;
+    border: solid 3px black;
     box-shadow: 0 5px 10px 0 rgba(0,0,0,0.2);
     top: 20px;
     right: 20px;
