@@ -36,7 +36,7 @@ cameraTrigger.onclick = function() {
     cameraOutput.classList.add("taken");
 
     watermark([cameraOutput, cameraWaterMark])
-    .dataUrl(watermark.image.upperLeft(1))
+    .dataUrl(watermark.image.upperLeft(0.5))
     //.render()
     .then(function (url) {
       cameraOutput.src = url;
