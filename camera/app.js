@@ -29,13 +29,14 @@ cameraTrigger.onclick = function() {
     cameraSensor.getContext("2d").drawImage(cameraView, 0, 0);
     cameraSensor.getContext("2d").drawImage(cameraView, 0, 0);
     cameraOutput.crossOrigin="anonymous";
+    cameraOutput.cameraWaterMark="anonymous";
     cameraOutput.src = cameraSensor.toDataURL("image/webp");
     cameraOutput.width = cameraSensor.width - 6;
     cameraOutput.height = cameraSensor.height - 6;
     cameraOutput.classList.add("taken");
 
-    watermark([cameraOutput, 'ILUWTF.png'])
-    .dataUrl(watermark.image.upperLeft(0.5))
+    watermark([cameraOutput, cameraWaterMark])
+    .dataUrl(watermark.image.upperLeft(1))
     //.render()
     .then(function (url) {
       cameraOutput.src = url;
