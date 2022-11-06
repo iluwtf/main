@@ -32,8 +32,9 @@ cameraTrigger.onclick = function() {
     cameraSensor.getContext("2d").drawImage(cameraWaterMark, 0, 0);
     
     cameraOutput.src = cameraSensor.toDataURL("image/webp");
+    
     cameraOutput.classList.add("taken");
-    cameraOutput.className('visi')
+    cameraOutput.setTransform(1,0,0,1,0,0);
     
     
 
