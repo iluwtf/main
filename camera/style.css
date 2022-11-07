@@ -31,10 +31,7 @@ html, body{
     z-index: -1;
 }
 
-#camera--view{
-    transform: scaleX(-1);
-    filter: FlipH;
-}
+
 
 #camera--trigger{
     width: 200px;
