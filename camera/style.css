@@ -28,7 +28,8 @@ html, body{
 #watermark {
     
     position: absolute;
-    
+    top: 15px;
+    left: 15px;
 }
 
 
