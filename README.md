@@ -1,6 +1,6 @@
 # I Love You [But] WTF?
 
-![ILU WTF (2)](https://user-images.githubusercontent.com/5898506/200136133-b971d098-54cd-47b3-95b7-361fd33a8695.png)
+![ILU WTF (2)](https://user-images.githubusercontent.com/5898506/200136133-b971d098-54cd-47b3-95b7-361fd33a8695.png)<a href="https://ilu.wtf/camera/index.html?v=1"><img src="https://img.shields.io/badge/Launch%20Camera-00B388?logo=DoIt&logoColor=fff&style=for-the-badge" alt="Launch in ILU.WTF Camera"></a>
 
 # Vision
 
