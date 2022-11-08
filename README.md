@@ -3,9 +3,12 @@
 
 ![image](https://user-images.githubusercontent.com/5898506/200563082-4425a2de-fc12-47ab-acfc-dbf5693d9701.png)
 
-1. **See plastic on the brand you like?** Press the button  <a href="https://ilu.wtf/camera/index.html?v=1"><img src="https://img.shields.io/badge/ILU.WTF%20Camera-00B388?logo=DoIt&logoColor=fff&style=for-the-badge" alt="Launch in ILU.WTF Camera"></a> And take a photo.
+1. **See plastic on the brand you like?** Press this button to take a photo with the ilu.wtf sticker:
+ 
+ <a href="https://ilu.wtf/camera/index.html?v=1"><img src="https://img.shields.io/badge/ILU.WTF%20Camera-00B388?logo=DoIt&logoColor=fff&style=for-the-badge" alt="Launch in ILU.WTF Camera"></a> 
+ 
 
-2. **Share the photo in your social media:** Tag the brand, plus your friends that also love that brand and add the **#iluWTF @iluWTF** tags.
+2. **Save and Share the photo in your social media:** Tag the brand, plus your friends that also love that brand and add the **#iluWTF @iluWTF** tags.
 
 
 ![image](https://user-images.githubusercontent.com/5898506/200548624-99f568f3-1e71-4143-8ab9-95cd3b40265f.png)
