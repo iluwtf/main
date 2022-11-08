@@ -7,7 +7,7 @@
 
 2. **Share the photo in your social media:** Tag the brand, plus your friends that also love that brand and add the **#iluWTF @iluWTF** tags.
 
-###
+
 ![image](https://user-images.githubusercontent.com/5898506/200548624-99f568f3-1e71-4143-8ab9-95cd3b40265f.png)
 
 
