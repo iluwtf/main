@@ -1,21 +1,18 @@
 # I Love You [But] WTF?
 
-![ILU WTF (2)](https://user-images.githubusercontent.com/5898506/200136133-b971d098-54cd-47b3-95b7-361fd33a8695.png)<a href="https://ilu.wtf/camera/index.html?v=1"><img src="https://img.shields.io/badge/Launch%20Camera-00B388?logo=DoIt&logoColor=fff&style=for-the-badge" alt="Launch in ILU.WTF Camera"></a>
+![ILU WTF (2)](https://user-images.githubusercontent.com/5898506/200136133-b971d098-54cd-47b3-95b7-361fd33a8695.png)<a href="https://ilu.wtf/camera/index.html?v=1"><img src="https://img.shields.io/badge/ILU.WTF%20Camera-00B388?logo=DoIt&logoColor=fff&style=for-the-badge" alt="Launch in ILU.WTF Camera"></a>
 
-# Vision
-
-We see a world where single use plastic is no more.
-
-# Mision
-
-The idea is to create change by showing the brands that we like that are still using plastic, that we are angry! But, that we want them to change, that we believe they can change. If we all do that, maybe we can make a difference.
-
-# Tactics
-![Untitled drawing (5)](https://user-images.githubusercontent.com/5898506/200134010-f68911c1-bfb5-4f8b-9571-d171bb5299f9.png) <a href="https://ilu.wtf/camera/index.html?v=1"><img src="https://img.shields.io/badge/Launch%20Camera-00B388?logo=DoIt&logoColor=fff&style=for-the-badge" alt="Launch in ILU.WTF Camera"></a>
-
-A simple place for people to tag photos of the products they like with a ILU.WTF icon, and make it easy for people to share those photos in social media.
+# A movement to terminate single-use plastics!
 
 
-*For example*: Some people love gatorade, but it comes on that thick plastic bottles, perhaps if millions of people share that they like them, but they would like to replace the plastic bottle for something friendlier to the environment.
+We've all been there, you order from your favourite place, and, it all comes with a bunch of plastic stuff, deep inside you know that straw, the cup, etc, it will all end up in the Ocean... Yet there we are buying it again and again. **But, we can change this!!**, next time we buy and see plastic, we can use social media to tell those brands: **Hey! I love you but WTF? this needs to change!**
 
-![Untitled drawing (6)](https://user-images.githubusercontent.com/5898506/200134251-5545b816-6274-4603-86bc-f37242a53596.png)
+### #iluWTF in two steps:.
+
+1. **See plastic on the brand you like?** Press the button  <a href="https://ilu.wtf/camera/index.html?v=1"><img src="https://img.shields.io/badge/ILU.WTF%20Camera-00B388?logo=DoIt&logoColor=fff&style=for-the-badge" alt="Launch in ILU.WTF Camera"></a> And take a photo.
+
+2. **Share in your social media:** Tag the brand, plus your friends that also love that brand and add the #iluWTF @iluWTF tags.
+
+
+![image](https://user-images.githubusercontent.com/5898506/200548624-99f568f3-1e71-4143-8ab9-95cd3b40265f.png)
+
